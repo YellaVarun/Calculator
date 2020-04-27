@@ -1,0 +1,24 @@
+[
+   {
+      "objectGuid": "8HRUAFXufIwh7oqglHCsMJ",
+      "objectName": "ac-error-fileWriter",
+      "objectType": "AI_CONNECTION",
+      "path": "/Explore/Tutorial/Calculator",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "application/json; charset=utf-8",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "Ugbcggaaaaa-gt-4591894-2020-04-23T00:38:11.742Z::conn.xml"
+         }
+      }
+   }
+]

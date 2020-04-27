@@ -1,0 +1,71 @@
+[
+   {
+      "objectGuid": "fpO7dKM7d0dclgb2PU856l",
+      "objectName": "Calculator-FaultHandling",
+      "objectType": "PROCESS",
+      "path": "/Explore/Tutorial/Calculator",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "application/json; charset=utf-8",
+            "description": "This is to get Git-V2",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [
+            "7wA6mRl8JT0fbujWxguvKR",
+            "8T1DvFQW2iwfOtRvOOthil"
+         ],
+         "repoInfo": {
+            "repoHandle": "6kbeJHQjATO9pH8-gt-4726472-2020-04-23T00:38:12.928Z::pd.xml"
+         }
+      }
+   },
+   {
+      "objectGuid": "7wA6mRl8JT0fbujWxguvKR",
+      "objectName": "CalculatorAppConnection",
+      "objectType": "AI_CONNECTION",
+      "path": "/Explore/Tutorial/Calculator",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "application/json; charset=utf-8",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "vDoyeG3vASaaaaa-gt-4591924-2020-04-23T00:38:12.353Z::conn.xml"
+         }
+      }
+   },
+   {
+      "objectGuid": "8T1DvFQW2iwfOtRvOOthil",
+      "objectName": "p_ErrorLogger",
+      "objectType": "PROCESS",
+      "path": "/Explore/Tutorial/Calculator",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "application/json; charset=utf-8",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "zET1cnFKi9zhFty-gt-4591934-2020-04-23T00:38:12.418Z::pd.xml"
+         }
+      }
+   }
+]

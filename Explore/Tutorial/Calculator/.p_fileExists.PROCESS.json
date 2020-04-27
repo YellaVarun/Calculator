@@ -1,0 +1,24 @@
+[
+   {
+      "objectGuid": "4IdGdvNCjYqhJXqUicaBIL",
+      "objectName": "p_fileExists",
+      "objectType": "PROCESS",
+      "path": "/Explore/Tutorial/Calculator",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "application/json; charset=utf-8",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "Wiaaa-gt-4591904-2020-04-23T00:38:11.788Z::pd.xml"
+         }
+      }
+   }
+]

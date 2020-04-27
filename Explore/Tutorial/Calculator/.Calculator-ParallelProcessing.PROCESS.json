@@ -1,0 +1,48 @@
+[
+   {
+      "objectGuid": "1djngBr2BlgkUQMBPhHLeL",
+      "objectName": "Calculator-ParallelProcessing",
+      "objectType": "PROCESS",
+      "path": "/Explore/Tutorial/Calculator",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "application/json; charset=utf-8",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [
+            "7wA6mRl8JT0fbujWxguvKR"
+         ],
+         "repoInfo": {
+            "repoHandle": "Yumx1XmgaabclvA-gt-4726460-2020-04-23T00:38:12.808Z::pd.xml"
+         }
+      }
+   },
+   {
+      "objectGuid": "7wA6mRl8JT0fbujWxguvKR",
+      "objectName": "CalculatorAppConnection",
+      "objectType": "AI_CONNECTION",
+      "path": "/Explore/Tutorial/Calculator",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "application/json; charset=utf-8",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": null,
+         "modelVersion": {
+            "major": 1,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "vDoyeG3vASaaaaa-gt-4591924-2020-04-23T00:38:12.353Z::conn.xml"
+         }
+      }
+   }
+]
